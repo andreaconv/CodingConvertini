@@ -1,0 +1,52 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+.quadrato{
+    background-color: black;
+    width: 1000px;
+    height: 600px;
+    opacity: 0.5;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 2%;
+    padding: 3%;
+    font-family: 'ubuntu', sans-serif;
+}
+#logo{
+    width: 200px;
+    margin-left: 400px;
+    padding-top: 40px;
+}
+header>div{  
+    color: green;
+    font-size: 40px;
+}
+nav{
+    background-color: green;
+    padding: 10px;
+}
+nav, header>div{
+    text-align:center
+}
+main{
+    color: white;
+}
+.nome{
+    font-size: 25px;
+}
+.arancione{
+    background-color: orange;
+    width: 250px;
+    height: 25px;
+}
+.verde{
+    background-color: green;
+    width: 500px;
+    height: 25px;
+}
+.rosso{
+    background-color: red;
+    width: 100px;
+    height: 25px;
+}
